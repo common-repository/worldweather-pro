@@ -1,0 +1,45 @@
+/* LAYOUT ELEMENTS */
+.worldweather-centered {
+	text-align: center;
+}
+.worldweather-right {
+	text-align: right;
+}
+.worldweather-col-half {
+	width: 50%;
+	float: left;
+}
+.worldweather-col-third {
+	width: 33%;
+	float: left;
+}
+.worldweather-col-two-third {
+	width: 66%;
+	float: left;
+}
+.worldweather-clear {
+	clear: both;
+}
+.worldweather-sub-title {
+	font-size: .8em;
+}
+.worldweather-sub-content {
+	font-size: .8em;
+}
+
+/* WEATHER ELEMENTS */
+.worldweather-description {
+	font-style: italic;
+}
+.worldweather-temp {
+	font-size: 2.75em;
+	margin-bottom: 2px;
+}
+.worldweather-details {
+	border: 1px solid #ececec;
+	background: #f0f0f0;
+	padding: 1px 3px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
